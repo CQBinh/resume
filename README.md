@@ -6,26 +6,16 @@ CAO Quang Binh
 > Skype: justin.nikme\
 > Thon 3, Tam Ngoc, Tam Ky, Quang Nam, Viet Nam\
 > [https://github.com/CQBinh](https://github.com/CQBinh)\
+> [http://blog.appconus.com/author/binhcq/](http://blog.appconus.com/author/binhcq/)
 > [http://stackoverflow.com/users/2810231/justin](http://stackoverflow.com/users/2810231/justin)\
 
 ----
 
-> Server and Android developer with 3 years’ experience in Android and Server development, library development and produce series app with one source code.
-> Code and release ten apps, including three individual apps, two open source projects. One individual app get 10.000+ download on Play Store.
-> Code and release four web service in Ruby, PHP + MySQL. I am very interesting in new technology, design pattern, clean code, English, soft skills and more.
+> Ruby and Android developer with 3 years’ experience in Android and Ruby development, library development and produce series app with one source code.
+> Code and release ten apps, including two open source projects, three individual apps. One individual app get 10.000+ download on Play Store.
+> Code and release three web service in Ruby, PHP + MySQL. I am very interesting in new technology, design pattern, clean code, English, soft skills and more.
 
 ----
-
-Education
----------
-
-2009-2014
-:   **BSc, Computer Science**; Danang University of Technology (Vietnam)
-
-    *Thesis title: English learning application development on Android platform*
-
-2006-2009
-:   Tran Cao Van high school, Tam Ky, Quangnam, Vietnam.
 
 Experience
 ----------
@@ -63,21 +53,6 @@ Learn English with BiLo
       presentation.
     * [https://play.google.com/store/apps/details?id=com.tubiapp.bilo](https://play.google.com/store/apps/details?id=com.tubiapp.bilo)
 
-TOEIC Test
-:   An Android application about virtual TOEIC Test.
-
-    * Individual project: three months.
-    * After this project, I have knowledge about encrypting and
-    protecting data, designing app’s graphic with Adobe Illustrator, JSON parsing, web service development with PHP, submitting app to Play Store process.
-    * [https://play.google.com/store/apps/details?id=com.binh.toeictest](https://play.google.com/store/apps/details?id=com.binh.toeictest)
-
-Pronunciation
-:   An Android application to help people pronounce English.
-
-    * Subject project: two months.
-    * After this project, I get familiar with Android development.
-    * [https://play.google.com/store/apps/details?id=binh.pronunciation](https://play.google.com/store/apps/details?id=binh.pronunciation)
-
 External Projects
 -----------------
 
@@ -86,21 +61,18 @@ External project
 
     * In this project, I learned about writing Web API, Admin page developing, CSV analyzing and exporting, searching engine.
     * I also learned about server interacting, deployment process and more about linux command line.
+    * Auto deployment with capistrano
     * [https://api.hhapp.jp/](https://api.hhapp.jp/)
 
 External project
-:   An Android application about chatting and discussing in internal company.
+:   A Ruby on Rails project about cosplay social network
 
-    * Eight months.
-    * In this project, I have deal with multi devices issue, difference
-      layout for phone and tablet, working with Android library development, apply design pattern on Android, custom views, customize Android components (listview, tab...). Learn about daily report, team meeting and communication skill.
+    * Three months.
+    * In this project, I learned about search engine like ElasticSearch and Ransack.
+      Get more knowledge about front-end development such as using [slim](http://slim-lang.com/) engine to generate HTML,
+      background processing with javascript and AJAX, especially in load more in infinity scrolling style.
+    * Auto deployment with mina
 
-External project
-:   An Android photo-sharing-social-network app.
-
-    * Two months.
-    * In this project, I have rewrite new API calling using Google
-      Volley library. Working with Google map. Speed up development process by using android annotation. I take more knowledge about github flow to manage team.
 
 Open Sources
 :   Some open sources I have contributed
@@ -108,6 +80,17 @@ Open Sources
     * [https://github.com/bbatsov/ruby-style-guide](https://github.com/bbatsov/ruby-style-guide): Vietnamese translation
     * [https://github.com/bbatsov/rails-style-guide](https://github.com/bbatsov/rails-style-guide): Vietnamese translation
     * And some issues raise for [rails](https://github.com/rails/rails/issues/22036) and [Android Universal Image Loader](https://github.com/nostra13/Android-Universal-Image-Loader)
+
+Education
+---------
+
+2009-2014
+:   **BSc, Computer Science**; Danang University of Technology (Vietnam)
+
+    *Thesis title: English learning application development on Android platform*
+
+2006-2009
+:   Tran Cao Van high school, Tam Ky, Quangnam, Vietnam.
 
 Awards
 ------
