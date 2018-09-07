@@ -1,37 +1,52 @@
+
 CAO Quang Binh
 ============
 ----
 
 > <CaoQuangBinh@gmail.com> • +84 (0)906 402 023 • 15/01/1991\
 > Skype: justin.nikme\
-> Thon 3, Tam Ngoc, Tam Ky, Quang Nam, Viet Nam\
+> Tam Ky, Quang Nam, Viet Nam\
 > [https://github.com/CQBinh](https://github.com/CQBinh)\
-> [http://blog.appconus.com/author/binhcq/](http://blog.appconus.com/author/binhcq/)
 > [http://stackoverflow.com/users/2810231/justin](http://stackoverflow.com/users/2810231/justin)\
 
 ----
 
-> Ruby and Android developer with 3 years’ experience in Android and Ruby development, library development and produce series app with one source code.
-> Code and release ten apps, including two open source projects, three individual apps. One individual app get 10.000+ download on Play Store.
-> Code and release three web service in Ruby, PHP + MySQL. I am very interesting in new technology, design pattern, clean code, English, soft skills and more.
+- Server (Ruby, Nodejs) developer and ex Android developer with 5 years experience in Android and Server development, library development and produce series app with one source code.
+- Attended some community events in local like:
+	- `Speaker` at Google Firebase workshop, Danang 2016
+	- `Speaker` at Google IO Extended, Danang 2016
+	- `Supporter` at Google hackathon, Danang 2016
+	- `Competitor` at Google hackathon, Danang 2017
+	- `Speaker` at Ruby meetup, Danang 2015
+- Code and release ten apps, including two open source projects, three individual apps. One individual app get 10.000+ download on Play Store.
+- I am very interesting in new technologies, design pattern, clean code, English, soft skills and more.
 
 ----
 
 Experience
 ----------
 
-AsianTech (3/2015 – now)
-:   Android developer, now: Ruby developer
+Zody (3/2017 – now)
+:   **Server developer**
 
-    * Development
+    * Server development with Nodejs
+    * Machine learning in recommendation system
+    * Research & Development
+    * Devops in server configuration
+
+AsianTech (3/2015 – 9/2016)
+:   **Android developer, Ruby developer**
+
+    * Server development with Ruby on rails
+    * Mobile development with Android
     * Research & Development
     * Technical Supporter
-    * Training
+    * Training internship
 
 Nikmesoft (9/2013 – 12/2014)
-:   Android developer
+:   **Android developer**
 
-    * Development
+    * Mobile development with Android
     * Research & Development
 
 Individual Projects
@@ -56,6 +71,14 @@ Learn English with BiLo
 External Projects
 -----------------
 
+Zody
+:   Nodejs, python projects about customer loyalty program
+
+    * In this project, I learned about writing Web API with Nodejs, implement machine learning in recommendation system with python, excel analyzing and exporting, searching technique.
+    * I also learned about server interacting, deployment process and more about linux server configuration.
+    * Auto deployment with pm2
+    * [https://zody.vn/](https://zody.vn)
+    
 External project
 :   A Ruby on Rails project about shopping with discount
 
