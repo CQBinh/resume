@@ -29,7 +29,7 @@ Experience
 Zody (3/2017 – now)
 :   **Server developer**
 
-    * Server development with Nodejs
+    * Server development with Nodejs and Firebase
     * Machine learning in recommendation system
     * Research & Development
     * Devops in server configuration
@@ -74,9 +74,11 @@ External Projects
 Zody
 :   Nodejs, python projects about customer loyalty program
 
-    * In this project, I learned about writing Web API with Nodejs, implement machine learning in recommendation system with python, excel analyzing and exporting, searching technique.
+    * In this project, I learned about writing Web API with Nodejs, excel analyzing and exporting, searching technique.
+    * Using Firebase for push notification, A/B testing, remote configuration, dynamic linking, app inviting
+    * Implement machine learning in recommendation system with python
     * I also learned about server interacting, deployment process and more about linux server configuration.
-    * Auto deployment with pm2
+    * Auto deployment with [pm2](http://pm2.keymetrics.io/), [fabric](http://www.fabfile.org/)
     * [https://zody.vn/](https://zody.vn)
     
 External project
@@ -84,7 +86,7 @@ External project
 
     * In this project, I learned about writing Web API, Admin page developing, CSV analyzing and exporting, searching engine.
     * I also learned about server interacting, deployment process and more about linux command line.
-    * Auto deployment with capistrano
+    * Auto deployment with [capistrano](https://capistranorb.com/) and [mina](http://nadarei.co/mina/)
     * [https://api.hhapp.jp/](https://api.hhapp.jp/)
 
 External project
