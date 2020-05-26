@@ -11,7 +11,7 @@ CAO Quang Binh
 
 ----
 
-- Server (Ruby, Nodejs) developer and ex Android developer with 5 years experience in Android and Server development, library development and produce series app with one source code.
+- Server (Nodejs, ex-Ruby) developer and ex-Android developer with 6 years experience in Android and Server development, smart contract development, library development and produce series app with one source code.
 - Attended some community events in local like:
 	- `Speaker` at Google Firebase workshop, Danang 2016
 	- `Speaker` at Google IO Extended, Danang 2016
@@ -25,12 +25,20 @@ CAO Quang Binh
 
 Experience
 ----------
+Techchain (4/2019 - now)
+: **Server, blockchain developer. Technical leader**
 
-Zody (3/2017 – now)
+    * Server development with Nodejs and Firebase
+    * Dapp development with solidity
+    * Research & Development
+    * Devops in server configuration
+    * Training new member, internship
+
+
+Zody (3/2017 – 3/2019)
 :   **Server developer**
 
     * Server development with Nodejs and Firebase
-    * Machine learning in recommendation system
     * Research & Development
     * Devops in server configuration
 
@@ -70,6 +78,30 @@ Learn English with BiLo
 
 External Projects
 -----------------
+
+External project
+:   A blockchain project about decentralize trading platform
+
+    * Smart contract development with solidity
+    * In this project, I invented new authentication mechanisms with the support of ethereum wallet, no user name/password anymore
+    * I have also learned about handling multi concurent interacting with database, socket and requests
+    * High availability on devops and database
+    
+External project
+:   A blockchain project about financial model
+
+    * In this project, I learned about some multi level system liek: solar, binary...
+    * Smart contract development with solidity
+    * Interacting with blockchain from nodejs
+    * Gas price, gas limit, orchart block knowledge
+        
+External project
+:   A blockchain project about gambling
+
+    * In this project, I learned about the way to generate random value on blockchain environment
+    * Get more knowledge on smart contract interacting
+    * Smart contract developemtn with solidity
+    * Testnet, mainnet deployment on ethereum, tomochain blockchain
 
 Zody
 :   Nodejs, python projects about customer loyalty program
